@@ -1,18 +1,18 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![]({{"/assets/me.JPG"| absolute_url}})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Daniel and I am a Engineer from Munich, Germany.
+In my job as a development engineer I am currently working on self driving cars.
 
+Before working in the automotive industry I studied Mechatronics at the Munich University of Applied Sciences.
 
-[jekyll-organization]: https://github.com/jekyll
+In my freetime I like to build cool stuff and travel the world.
+
+In this Blog I want to share my experiences with you.
