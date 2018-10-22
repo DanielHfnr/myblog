@@ -4,8 +4,6 @@ layout: page
 permalink: "/about/"
 ---
 
-![]({{"/assets/me.JPG"| absolute_url}})
-
 Hi!
 
 My name is Daniel and I am a Engineer from Munich, Germany.
